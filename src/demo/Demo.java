@@ -17,6 +17,7 @@ public class Demo {
         // TODO code application logic here
         System.out.println("Hehehehehehe");
         System.out.println("Chào ae nhớ");
+        System.out.println("HEHEHEH");
     }
     
 }
